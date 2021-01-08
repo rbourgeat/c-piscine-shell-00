@@ -1,0 +1,5 @@
+Credentials cache: API:77B1D4E2-A47E-4482-ABBC-D01C1358134A
+        Principal: rbourgea@42.FR
+
+		  Issued                Expires               Principal
+		  Aug 26 09:53:42 2019  Sep  2 09:53:42 2019  krbtgt/42.FR@42.FR
